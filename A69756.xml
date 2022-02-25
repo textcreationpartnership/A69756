@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble remonstrance of the commissioners of the General Assembly met at Edinburgh the 13th of October 1647 and since concluded concerning the Kings Majesties answer to the propositions of both kingdomes for peace : also, about the army in England and touching some things in relation to the Parliament : with their desires presented to the Right Honourable the Committee of Estates for the kingdome of Scotland.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69756</idno>
+            <idno type="STC">Wing C4229A</idno>
+            <idno type="STC">ESTC R26460</idno>
+            <idno type="EEBO-CITATION">09471319</idno>
+            <idno type="OCLC">ocm 09471319</idno>
+            <idno type="VID">43217</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43217)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:11 or 1305:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble remonstrance of the commissioners of the General Assembly met at Edinburgh the 13th of October 1647 and since concluded concerning the Kings Majesties answer to the propositions of both kingdomes for peace : also, about the army in England and touching some things in relation to the Parliament : with their desires presented to the Right Honourable the Committee of Estates for the kingdome of Scotland.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Ker, A.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: To the Right Honourable the Committee of Estates.</note>
+                  <note>Signed: Alexander Ker.</note>
+                  <note>Originally published: Edinburgh : By Evan Tyler.</note>
+                  <note>Found in Unit 34 as Wing S983 (cancelled in Wing (CD-ROM, 1996)) and in Unit 44 as Wing C4229A.</note>
+                  <note>Reproduction of originals in the Union Theological Seminary Library and the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism.</term>
+               <term>Scotland --  Church history --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43217:1"/>
+            <!-- PDF PAGE 64 -->
+            <pb facs="tcp:43217:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <p>An Humble REMONSTRANCE OF THE Commiſsioners of the Generall Aſſem<g ref="char:EOLhyphen"/>bly, met at <hi>Edinburgh,</hi> the 13th of <hi>October</hi> 1647. And ſince concluded.</p>
+            <p>Concerning The KINGS Majeſties ANSVVER to the PROPOSITIONS of <hi>both Kingdomes for Peace.</hi>
+            </p>
+            <p>ALSO About the ARMY in <hi>England,</hi> and touching ſome things in Relation to the PARLIAMENT.</p>
+            <p>WITH Their Deſires preſented to the Right-Honourable the Committee of Eſtates <hi>for the Kingdome of Scotland.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>By the Appointment of the <hi>Commiſſioners</hi> of the <hi>Generall Aſ<g ref="char:EOLhyphen"/>ſembly.</hi>
+                        </p>
+                        <closer>
+                           <signed>Signed, ALEXANDER KER.</signed>
+                        </closer>
+                        <postscript>
+                           <opener>
+                              <dateline>
+                                 <date>Novemb 1. 1647.</date>
+                              </dateline>
+                           </opener>
+                           <p>Imprimatur,</p>
+                           <closer>
+                              <signed>Gilbert Mabbott.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>Edinburgh</hi> by <hi>Evan Tyler,</hi> Printer to the Kings moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, 1647. And Reprinted at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> in <hi>Smithfield,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43217:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="1" facs="tcp:43217:2"/>
+            <!-- PDF PAGE 65 -->
+            <head>
+               <hi>TO THE RIGHT-HONOURABLE THE</hi> COMMITTEE <hi>of</hi> ESTATES: The humble Remonſtrance of the <hi>Commiſſion<g ref="char:EOLhyphen"/>ers</hi> of the Generall Aſſembly, met at <hi>Edinburgh</hi> 
+               <date>the <hi>13th.</hi> of <hi>Octob.</hi> 1647.</date>
+            </head>
+            <p>AS there hath been very lately a publique and ſolemne Thankſgiving, for the great mercies and deliverances, which God hath wrought for this Nation, after hee had brought it very low, ſo the dangers which are interwoven with our deliverances are very great, and ſtill growing grea<g ref="char:EOLhyphen"/>ter. This alſo commeth forth from the Lord of Hoſts, who is wonderfull in Councell, and excellent in working, that we may not be ſecure, or think that all our ſtormes are o<g ref="char:EOLhyphen"/>ver-paſt, but may ſerve the Lord in feare, and rejoyce in trembling, and bee the more ſtirred up to watchfulneſſe, cir<g ref="char:EOLhyphen"/>cumſpection, and zeale, in all the duties which the conditi<g ref="char:EOLhyphen"/>on of this time cals for.</p>
+            <p>Wee therefore in the diſcharge of that great truſt which is committed to us, and according to the duty of watch<g ref="char:EOLhyphen"/>men ſet upon this watch-Tower, can not be ſilent in a time of ſo great danger, but hold it incombent to us, humbly
+<pb n="2" facs="tcp:43217:3"/>
+               <!-- PDF PAGE 66 -->and faithfully to report, and Remonſtrate to your Lordſhips that the dangers of the true reformed Religion, and cauſe of God in this whole Iſland, whereby the late generall Aſſem<g ref="char:EOLhyphen"/>bly their Declaration, communicated to Your Lordſhips, diſcovered to be in many reſpects ſo great, and ſo imminent, as might juſtly occaſion to your Lordſhips, in your wiſ<g ref="char:EOLhyphen"/>domes, to think of ſome more effectuall meanes, and reme<g ref="char:EOLhyphen"/>dies for preventing of removing of ſuch dangers, although they could not now bee aggravated by any new emergents. Nevertheleſſe wee have too great cauſe to conceive that the dangers of Religion are now grown greater, then they were at the time of the Generall Aſſembly.</p>
+            <p>And even ſince the time of publiſhing your Lordſhips Act, concerning the disbanding of the Army in this Kingdome, The wiſe and marvellous providence of God is making an<g ref="char:EOLhyphen"/>ſwer and Proclamation aloud in both our eares, that the danger is become greater, and more imminent, for the wa<g ref="char:EOLhyphen"/>ters of the preſent deluge, are growne many cubits higher ſince that time; for evidence whereof, the <hi>Kings Majeſties</hi> late <hi>Anſwer</hi> to the <hi>Propoſitions</hi> of both <hi>Kingdomes,</hi> may bee in<g ref="char:EOLhyphen"/>ſtead of many Demonſtrations. It is our great griefe that we have cauſe to ſay ſo, but wee muſt ſpeak to the matter as it is, and unleſſe we would ſhut our eyes, we cannot but behold in that <hi>Anſwer</hi> a threefold growing danger to Re<g ref="char:EOLhyphen"/>ligion. For,</p>
+            <p n="1">1. His <hi>Majesty</hi> profeſſeth, <hi>That as when the Propoſitions were offered to him at</hi> New-caſtle, <hi>hee could not agree to ſome of them without violation of his Conſcience and Honour; So neither can hee agree to others of them now, conceiving them more diſproportionable to the preſent condition of Affaires then when they were formerly pre<g ref="char:EOLhyphen"/>ſented to him; as being deſtructive to the principall Intereſts of the Army:</hi> So that his <hi>Majeſties</hi> diſ-agreeing being now more inlarged, and of a greater latitude then before, if his <hi>Ma<g ref="char:EOLhyphen"/>jesties</hi> former <hi>Anſwer</hi> to the <hi>Propoſitions</hi> was juſtly conceived to bee unſatisfactory in point of Religion, this laſt doth much leſſe ſatisfie; For although his <hi>Majeſty</hi> did not in his former <hi>Anſwer</hi> agree to the <hi>Covenant,</hi> and other materiall <hi>Pro<g ref="char:EOLhyphen"/>poſitions,</hi>
+               <pb n="3" facs="tcp:43217:3"/>
+               <!-- PDF PAGE 66 -->concerning Religion, yet there was in that <hi>Anſwer</hi> ſome part of ſatisfaction, even to the <hi>Propoſitions concerning Religion:</hi> Whereas in the late <hi>Anſwer,</hi> even that part of ſa<g ref="char:EOLhyphen"/>tisfaction is by the aforeſaid expreſſion unſettled, inſtead of being adhered unto: Wee ſhall paſſe that clauſe in the <hi>An<g ref="char:EOLhyphen"/>ſwer</hi> which owneth <hi>the Intereſts of the Army,</hi> ſo farre as to pre<g ref="char:EOLhyphen"/>judice <hi>the more publique Intereſts of both Kingdomes</hi> in thoſe <hi>Pro<g ref="char:EOLhyphen"/>poſitions</hi> agreed upon after mature deliberation by both <hi>Par<g ref="char:EOLhyphen"/>liaments.</hi>
+            </p>
+            <p n="2">2. His <hi>Majeſties waving the Propoſitions of both Kingdomes, and preſſing the Propoſalls of the Army to bee the ſubject of a Treaty,</hi> doth yet further increaſe the danger of Religion, ſeeing thoſe <hi>Propoſals,</hi> as they omit and abandon the former deſires of both <hi>Kingdomes,</hi> in point of Religion, ſo they cannot avoid (as the words ſtand) the continuing of <hi>Prelacy,</hi> the Tolle<g ref="char:EOLhyphen"/>ration of Hereſies and Sects, and the taking away of the Or<g ref="char:EOLhyphen"/>dinance injoyning the taking of the <hi>Covenant,</hi> as is more fully expreſt in the <hi>Declaration</hi> of the late <hi>Generall Aſſembly.</hi>
+            </p>
+            <p n="3">3. His <hi>Majesties Anſwer</hi> doth alſo divide that joynt and common Intereſt of both Kingdomes in the <hi>Propoſitions,</hi> which was formerly the ground of a joynt Treaty of both with his <hi>Majeſty:</hi> Hereby (what-ever may be the prejudice otherwiſe) ſurely Religion will ſuffer not a little, foraſ<g ref="char:EOLhyphen"/>as the <hi>Propoſitions concerning the Covenant of the three Kingdomes, and the uniformity between them in Religion,</hi> and by this meanes in effect excluded from the Treaty; <hi>The joynt deſires, and com<g ref="char:EOLhyphen"/>mon cancernments of the Kingdomes in point of uniformity in Reli<g ref="char:EOLhyphen"/>gion,</hi> being no part of the ſubject of a Treaty, with either Kingdome ſeverally, but of a Treaty with both joyntly.</p>
+            <p>Yet his <hi>Majeſties Anſwer to the Propoſitions,</hi> is not the onely danger to be now looked on in this buſineſſe, for ever ſince that <hi>Anſwer</hi> was given, this common cauſe and <hi>Covenant</hi> hath been yet further weakned, and dangerouſly wounded by the late ſtrong indevours in <hi>England,</hi> to move the Parliament to eſtabliſh by their Authority, a tolleration of Sectaries, and to ſlight and lay aſide ſuch of the <hi>Propoſitions</hi> of peace as con<g ref="char:EOLhyphen"/>cern the <hi>Covenant,</hi> and the joynt intereſt of the Kingdomes in <hi>Religion.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:43217:4"/>
+               <!-- PDF PAGE 67 -->
+It addeth griefe to our ſorrow, that wee have cauſe to men<g ref="char:EOLhyphen"/>tion the new perſecutions raiſed there by mean<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the ſecta<g ref="char:EOLhyphen"/>ries, againſt divers who have beene zealous and active for the good <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>Religion, King,</hi> and <hi>Kingdomes</hi> Yea, they who pleade ſo much for Liberty of Conſcience to themſelves, allow ſo little of it to others who differ from them, that they can now make up a charge either of conſtructive Treaſon, or of high crimes and miſdemeanours againſt them, for ſuch particulars as doe upon the matter a mount to no more but zealous endea<g ref="char:EOLhyphen"/>vours in oppoſing the way of the Sectaries.</p>
+            <p>Neither common ſenſe, nor chriſtian ſympathy can ſuffer us to conceive that the cauſe of Religion is in no greater danger then before, when perſecution is growing daily more and more hot agai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt ſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch as have moſt appeared againſt, or endeavoured to hinder the late unſufferable exhorbitances of the Sectaries.</p>
+            <p>While the danger of Religion is thus increaſed abroade, wee cannot ſay that it is growne any whit leſſe at home, but rather greater: for beſides the dangerous influence which the growing power of the enemies of the Covenant in <hi>England</hi> is like to have upon this Kingdome, the Malignant faction at home, hath not ſo much decreaſed in profeſſion, as increaſed in deſigne and practice againſt this cauſe and Covenant; ſurely they who are diſ-affected in this Nation, being many, are as malitious as before, when very ſhortly after the expedition into <hi>England,</hi> perceiving no force within the Kingdome to reſiſt them, they tooke Armes, and diſturbed the publique peace: And if they were ſo ready to ſtirre when that Army was, but out of the Kingdome, how much more if it ſhall bee disbanded? Some enemies are ſtill in the feilde, and in actuall rebellion within this Kingdome; And there is too great cauſe to feare that ma<g ref="char:EOLhyphen"/>ny others who retaine their former principles and continue in their former deſig<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es againſt this cauſe, ſhall not be ſlow to take up Armes, if your Lordſhips lay them downe.</p>
+            <p>And ſo much the more may this bee expected, becauſe as their pride and inſolency is of late growne more intollerable upon hopes of disbanding the Army, ſo there are many of them inraged as Beares robbed of their whelps or as Wolves of the evening, being alſo deſperate of mending their broken Eſtates, ex<g ref="char:EOLhyphen"/>cept
+<pb n="5" facs="tcp:43217:4"/>
+               <!-- PDF PAGE 67 -->it be i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> publique combuſtione; others of them are anima<g ref="char:EOLhyphen"/>ted and imployed by the great favour and indulgence which hath beene ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed towards them in their delinquencies, in ſo much that they are thereby hardened from repenting of their Rebellion, or compliance with Rebels, and even bleſſe them<g ref="char:EOLhyphen"/>ſelves for a better lot, eaſier yoake, and lighter burd<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n thoſe who have beere moſt reall and active for the Cove<g ref="char:EOLhyphen"/>nant.</p>
+            <p>Theſe dangers of Religion wee have inſiſted upon, as being moſt proper for us to ſpeake to, and not as wee were inſenſible of the great danger of the <hi>Kings perſon,</hi> and of <hi>Monarchical Go<g ref="char:EOLhyphen"/>vernment,</hi> for preſerving of which according to our Covenant, our prayers and beſt indeavours ſhall not be wanting.</p>
+            <p>And now the danger of Religion in all this being ſo great, and the grounds of our feares and apprehenſions being ſo preg<g ref="char:EOLhyphen"/>nant, wee earneſtly beſeech, and humbly obteſt your Lordſhips in the bowels of Jeſus Chriſt, and by the vowes of God which are upon you, that as your Lordſhips deſire God, and your own conſciences, and the poſterity may not afterwards charge upon you, the ruine of <hi>Religion, King</hi> and <hi>Kingdomes,</hi> ſo your Lordſhips may bee very tender and conſcionable, that no ſuch deſigne be entertained, or get place among you, as tendeth to the diſ-abling of this <hi>Church</hi> and <hi>Kingdome</hi> from an effectuall proſſecuting, and promoting of the ends of the Covenant, or to the ſtrengthening and inabling the enemies thereof by af<g ref="char:EOLhyphen"/>fording them the opportunity which they waite for, to diſturbe againe the peace, and to deſtroy the preſent Reformation.</p>
+            <p>Theſe and no better effects can be looked for, if the Army in this Kingdome, which hath beene ſo bleſſed of God, and ſo faithfull to you, ſhall bee disbanded before this cauſe, which ſo much concerneth the glory of God, the <hi>Reformation</hi> and <hi>defence of Religion,</hi> the <hi>Peace and ſafety of the Kingdomes,</hi> the <hi>Honour and happineſſe of the King,</hi> be ſettled upon a firme foundation.</p>
+            <p>In this our humble deſire wee are not biaſſed with any reſpect to any particular party or intereſt, our witneſſe is in Heaven, and within our breſts, that wee ſpeake for the intereſt of Reli<g ref="char:EOLhyphen"/>gion and of the cauſe of God; neither doth that wee deſire tend
+<pb n="6" facs="tcp:43217:5"/>
+               <!-- PDF PAGE 68 -->to a new Wane, but to the preventing of a new war, nor to the increaſing of burdens in the Kingdom, but to the preventing of greater burthers: Nor is it ourdeſire alone, but many others are equally ſenſible with us of the great danger which may ac<g ref="char:EOLhyphen"/>crue to this cauſe from the disbanding of that Army.</p>
+            <p>It is not un-obſerved that moſt of thoſe who are active for the laying downe of Armes, are ſuch as wer againſt the taking up of Armes in this Cauſe: However ſince ther can be no aſſurance in human reaſon that the Kingdome ſhall reed no Army, wee humbly offer it to your Lordſhips moſt ſerious thoughts, bow farre a new ſtate of the queſtion, ſetting aſide the Covenant (while ſome late debates, both here and in <hi>England,</hi> give us cauſe to feare) and the raiſing or imploying another Armie, (which we alſo apprehend and expect, if this Army was once disbanded) may bee prejudiciall and even deſtructive to this Cauſe and Covenant, for which this Nation hath done and ſuf<g ref="char:EOLhyphen"/>fered ſo much.</p>
+            <p>Having thus diſcharged our Conſciences wee humbly leave all this to bee well weighed by your Lordſhips, and wee pray the Lord himſelfe to guide your Lordſhips councell that you may bee like the wiſe men of <hi>Iſſachar</hi> having underſtanding of the times, what <hi>Iſrael</hi> ought to doe, and what they ought not to doe</p>
+            <closer>
+               <signed>ALEXANDER KER.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43217:5"/>
+            <!-- PDF PAGE 68 -->
+         </div>
+      </body>
+   </text>
+</TEI>
